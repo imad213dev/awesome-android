@@ -302,6 +302,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Realm Asset Helper](https://github.com/eggheadgames/android-realm-asset-helper) - Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.
 - [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate android's SQLiteDatabase with restoring capability.
 - [Nitrite Database](https://github.com/dizitart/nitrite-database) - A NoSQL embedded document store for Android with MongoDb like API.
+- [Outsync](https://github.com/imad213dev/outsync) - Offline-first sync on top of your own database and API, with a persistent outbox, WorkManager auto-sync and conflict resolution.
 
 #### ORM
 
